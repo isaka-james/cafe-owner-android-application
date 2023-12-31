@@ -1,0 +1,17 @@
+<!-- res/menu/bottom_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_home"
+        android:title="Home"
+        android:icon="@drawable/home_24px" />
+    <item
+        android:id="@+id/menu_item_orders"
+        android:title="Orders"
+        android:icon="@drawable/shopping_bag_24px" />
+
+    <item
+        android:id="@+id/menu_item_account"
+        android:title="Account"
+        android:icon="@drawable/person_24px" />
+    <!-- Add more items as needed -->
+</menu>

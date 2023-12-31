@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- card_item.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Image -->
+    <ImageView
+        android:id="@+id/image_view_onway"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/priceTextViewOnWay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:padding="8dp" />
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/titleTextViewOnWay"
+        android:fontFamily="@font/caveat_brush"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/fromFood"
+        android:fontFamily="@font/caveat_brush"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:padding="8dp" />
+
+
+    <TextView
+        android:id="@+id/customer_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/caveat_brush"
+        android:textSize="18sp"
+        android:padding="8dp" />
+    <!-- Description -->
+    <TextView
+        android:id="@+id/locationTextViewOnWay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:padding="8dp" />
+    <TextView
+        android:id="@+id/delivering_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:padding="8dp" />
+
+
+    <TextView
+        android:id="@+id/customer_comment"
+        android:layout_width="match_parent"
+        android:textStyle="italic"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/customer_phone"
+        android:fontFamily="@font/caveat_brush"
+        android:layout_width="match_parent"
+        android:textStyle="italic"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:text="Status: Not Delivered"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:padding="8dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/deliver"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="3dp"
+        android:layout_margin="10dp"
+        android:text="Mark as Delivered"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/black" />
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">cafe+</string>
+    <string name="username_login">Username</string>
+    <string name="password_login">Password</string>
+    <string name="app_bar_scrolling_view_behavior"></string>
+    <string name="userName">username</string>
+    <string name="userMobile">phone</string>
+
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="categories">Categories</string>
+    <string name="menu">Menu</string>
+    <string name="recently">Recently</string>
+    <string name="search">Search</string>
+    <string name="cafeterion">Cafeterion</string>
+    <string name="trending">Trending</string>
+</resources>

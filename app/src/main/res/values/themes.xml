@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.splashscreen" parent="android:Theme.Material.Light.NoActionBar" >
+        <item name="android:colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="android:colorPrimary">@color/color_primary</item>
+        <item name="android:colorAccent">@color/color_accent</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.Login" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="android:colorPrimary">@color/color_primary</item>
+        <item name="android:colorAccent">@color/color_accent</item>
+        <item name="android:statusBarColor">@color/color_primary_trans</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+</resources>
+
+
+
+

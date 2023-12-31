@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Disable cleartext traffic (HTTP) -->
+    <base-config cleartextTrafficPermitted="false">
+        <!-- Optionally specify trusted CA certificates here -->
+    </base-config>
+
+    <!-- Specify domains with custom settings -->
+    <domain-config>
+        <!-- Example: Allow connections to example.com over HTTPS -->
+        <domain includeSubdomains="true">000webhostapp.com</domain>
+    </domain-config>
+
+    <!-- Additional domain-specific configurations can be added here -->
+</network-security-config>

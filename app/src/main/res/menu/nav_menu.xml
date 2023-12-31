@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_side_nav"
+            android:icon="@drawable/home_24px"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/account_side_nav"
+            android:icon="@drawable/person_24px"
+            android:title="Account" />
+        <item
+            android:id="@+id/orders_side_nav"
+            android:icon="@drawable/shopping_cart_24px"
+            android:title="Your Orders" />
+
+        <item
+            android:id="@+id/feedback_side_nav"
+            android:icon="@drawable/feedback_24k"
+            android:title="Feedback" />
+
+        <item
+            android:id="@+id/share_side_nav"
+            android:icon="@drawable/share_24px"
+            android:title="Share" />
+
+        <!-- Add more items as needed -->
+    </group>
+</menu>
