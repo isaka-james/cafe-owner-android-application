@@ -2,7 +2,7 @@
 
 Welcome to Café Deliever, the owner edition! This mobile application is tailored to empower café owners in managing orders and enhancing the delivery experience.
 
-Remember: The customers edition is [here](https://github.com/reprogamaco/cafeterion-customers-app).For full expirience one should use [customer app](https://github.com/reprogamaco/cafeterion-customers-app), [cafe deliver app/cafe's owner](https://github.com/reprogamaco/cafe-owner-android-application) and [cafeterion server])(https://github.com/reprogamaco/) for full experience and performance.
+*Remember: The customers edition is [here](https://github.com/reprogamaco/cafeterion-customers-app).For full expirience one should use [customer app](https://github.com/reprogamaco/cafeterion-customers-app), [cafe deliver app/cafe's owner](https://github.com/reprogamaco/cafe-owner-android-application) and [cafeterion server])(https://github.com/reprogamaco/) for full experience and performance.*
 
 ## App Highlights
 
