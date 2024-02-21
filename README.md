@@ -1,11 +1,11 @@
 # Café Deliever App - Owner Edition
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxmain&label=Project%20viewed&color=0e75b6&style=flat" alt="paradoxmain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cafe-owner&label=cafe-owner-android&color=0e75b6&style=flat" alt="paradoxmain" /> </p>
 
 Welcome to Café Deliever, the owner edition! This mobile application is tailored to empower café owners in managing orders and enhancing the delivery experience.
 
-*Remember: The customers edition is [here](https://github.com/reprogamaco/cafeterion-customers-app).For full expirience one should use [customer app](https://github.com/reprogamaco/cafeterion-customers-app), [cafe deliver app/cafe's owner](https://github.com/reprogamaco/cafe-owner-android-application) and [cafeterion server](https://github.com/reprogamaco/) for full experience and performance.*
+*Remember: The customers edition is [here](https://github.com/isaka-james/cafeterion-customers-app).For full expirience one should use [customer app](https://github.com/isaka-james/cafeterion-customers-app), [cafe deliver app/cafe's owner](https://github.com/isaka-james/cafe-owner-android-application) and [cafeterion server](https://github.com/isaka-james/) for full experience and performance.*
 
 ## App Highlights
 
@@ -26,7 +26,7 @@ Welcome to Café Deliever, the owner edition! This mobile application is tailore
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/reprogamaco/cafe-owner-android-application
+   git clone https://github.com/isaka-james/cafe-owner-android-application
    ```
 2. Open the project in Android Studio and build the application.
 
@@ -59,4 +59,4 @@ Happy café managing!
 The project was made from Stratch.
 
 ## License
-This project is licensed under the [MIT License]([LICENSE.md](https://raw.githubusercontent.com/reprogamaco/cafeterion-customers-app/main/LICENSE.md)https://raw.githubusercontent.com/reprogamaco/cafeterion-customers-app/main/LICENSE.md). 
+This project is licensed under the [MIT License]([LICENSE.md](https://raw.githubusercontent.com/isaka-james/cafeterion-customers-app/main/LICENSE.md)https://raw.githubusercontent.com/isaka-james/cafeterion-customers-app/main/LICENSE.md). 
